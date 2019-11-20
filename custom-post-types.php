@@ -35,6 +35,7 @@ add_action('init', function() {
 		],
 		'description' => __('Teaser posts'),
 		'public' => true,
-		'hierarchical' => true
+		'hierarchical' => true,
+		'show_in_rest' => true
 	]);
 });
