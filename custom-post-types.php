@@ -18,7 +18,7 @@
  * Add the teaser post type.
  */
 add_action('init', function() {
-	register_post_type('teaser', [
+	register_post_type('teasers', [
 		'label' => __('Teasers'),
 		'labels' => [
 			'name' => __('Teasers'),
