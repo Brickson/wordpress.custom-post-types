@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Custom posttypes for Brickson
- * Plugin URI: https://brickson.nl
+ * Plugin Name: Custom posttypes for demo.getfrontender.com
+ * Plugin URI: https://frontender.com
  * Description: A plugin that will add all of our custom post types
  * Version: 1.0.0
  * Author: Brickson
